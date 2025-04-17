@@ -33,27 +33,8 @@ Hi there! I'm Carlo, a Software Engineering Technology student at Centennial Col
 ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas&logoColor=white)
 ![Scikit-Learn](https://img.shields.io/badge/-Scikit_Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
 ![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat&logo=numpy&logoColor=white)
-
-## 🚀 Featured Projects
-
-### Tech Service Market
-A platform connecting students with job opportunities.
-- **Tech Stack:** JavaScript, MongoDB, React.js
-- **Features:** Role-based access (students, recruiters, university partners)
-- **Link:** [Live Demo](https://techservicemarket.onrender.com)
-- Developed as a capstone project using Agile methodology with a team of six
-
-### Automobile Theft Prediction
-ML model to predict high-risk theft times and locations.
-- **Tech Stack:** Python, Random Forest, Pandas, Scikit-Learn
-- **Features:** 72% accuracy, 70% precision, 75% recall
-- Analyzed 66,000+ records from Toronto Police Service (2014-2024)
-
-### Telegram Bot for Medical Clinic
-Automated messaging and scheduling system.
-- **Tech Stack:** Python, Flask, Telebot API
-- **Features:** Automated reminders, cloud deployment on Replit
-- Developed for E-Konsulta Medical Clinic to improve administrative efficiency
+![OpenAI API](https://img.shields.io/badge/-OpenAI_API-412991?style=flat&logo=openai&logoColor=white)
+![Google Gemini API](https://img.shields.io/badge/-Google_Gemini_API-4285F4?style=flat&logo=google&logoColor=white)
 
 ## 📚 Education
 
