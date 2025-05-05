@@ -27,6 +27,8 @@ Hi there! I'm Carlo, a Software Engineering Technology student at Centennial Col
 ### Databases & Cloud
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
+![Supabase](https://img.shields.io/badge/-Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white)
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
 ![Render](https://img.shields.io/badge/-Render-46E3B7?style=flat&logo=render&logoColor=white)
 
@@ -41,8 +43,8 @@ Hi there! I'm Carlo, a Software Engineering Technology student at Centennial Col
 
 **Software Engineering Technology Co-op Diploma**  
 Centennial College, Toronto, ON  
-*Expected graduation: April 2025*  
-GPA: 4.1/4.5
+*Graduated: June 2025*  
+GPA: 4.15
 
 ## 📫 Get in Touch
 
@@ -52,4 +54,4 @@ GPA: 4.1/4.5
 
 ---
 
-⭐️ From [Carlo Toledo](https://github.com/YOUR_GITHUB_USERNAME)
+⭐️ [Carlo Toledo](https://github.com/ctoledocarlo)
